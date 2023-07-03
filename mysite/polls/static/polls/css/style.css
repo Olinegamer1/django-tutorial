@@ -1,0 +1,34 @@
+h1 {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+li a {
+    color: white;
+}
+
+body {
+    background: white url("../images/background.png") no-repeat;
+    background-size: cover;
+}
+
+fieldset legend {
+    color: white;
+}
+
+fieldset label {
+    color: white;
+}
+
+fieldset {
+    display: inline;
+    border-radius: 5px;
+}
+
+div {
+    display: flex;
+    justify-content: center
+}
